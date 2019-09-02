@@ -1,4 +1,4 @@
-from Belly_Button_Diversity.app import db
+from belly_button_diversity.app import db
 import os
 
 # db.drop_all()
